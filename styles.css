@@ -1,0 +1,15 @@
+h1 {
+  color: blue;
+}
+p, li {
+    color: green;
+}
+li em {
+  color: rebeccapurple;
+}
+a:hover {
+  text-decoration: none;
+}
+ul {
+  border: 2px solid powderblue;
+}
